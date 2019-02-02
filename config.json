@@ -1,0 +1,13 @@
+{
+    "MainPort": "88",
+    "Rules": [
+        {
+            "Domain":"127.0.0.1:88",
+            "Address":"123.207.241.119:520"
+        },
+        {
+            "Domain":"linux.onlinecode.cn",
+            "Address":"127.0.0.1:8088"
+        }
+    ]
+}
